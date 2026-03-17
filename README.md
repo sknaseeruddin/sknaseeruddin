@@ -31,3 +31,7 @@
 ## 📫 Contact Me
 - Email: your-email@gmail.com  
 - LinkedIn: (add later)
+- ---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sknaseeruddin&show_icons=true&theme=dark)
