@@ -1,32 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Naseeruddin
 
-<!--
-**sknaseeruddin/sknaseeruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Web Development Learner  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/sknaseeruddin/sknaseeruddin/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/sknaseeruddin/sknaseeruddin/tree/master/0070-climbing-stairs) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/sknaseeruddin/sknaseeruddin/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->
+---
+
+## 📂 Projects
+
+### 🔹 Cricket Live Score App
+👉 https://github.com/sknaseeruddin/cricket-live-score-app  
+👉 (Add your live link later)
+
+- Live scores  
+- Upcoming matches  
+- Search feature  
+
+### 🔹 Portfolio Website
+👉 https://github.com/sknaseeruddin/portfolio-website  
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com  
+- LinkedIn: (add later)
