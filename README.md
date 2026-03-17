@@ -25,6 +25,12 @@
 
 ### 🔹 Portfolio Website
 👉 https://github.com/sknaseeruddin/portfolio-website  
+---
+
+## 🚀 Goals
+- Build strong web development projects  
+- Get internship in web development  
+- Improve problem solving skills  
 
 ---
 
